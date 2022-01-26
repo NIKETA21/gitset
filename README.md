@@ -2,5 +2,7 @@
 #include<stdio.h>
 void mai()
 { 
-printf("enter a number")
+int a;
+printf("enter a number");
+scanf("%d", &a);
 }
